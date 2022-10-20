@@ -15,6 +15,7 @@ struct Dog: Identifiable, Decodable {
 
 
 struct DogImage: Decodable {
+    var id: String
     var width: CGFloat
     var height: CGFloat
     var url: String

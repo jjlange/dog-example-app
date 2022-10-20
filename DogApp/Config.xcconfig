@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  DogApp
+//
+//  Created by Justin Lange on 20/10/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = "live_Q4cKl18meCZTnlg9IEeH1t5X0hKEu0WpMgyFgGjmNkehWtKw6Ex213Hyutnnfs1B"
